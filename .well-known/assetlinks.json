@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.bakeware_india.bakeware_india",
+               "sha256_cert_fingerprints": ["F8:06:DE:BA:0D:E3:35:F3:4C:8A:06:7B:D9:96:E2:1B:CB:6F:CD:97:DC:37:04:85:8D:85:23:FA:67:61:42:18"] }
+}]
